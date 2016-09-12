@@ -1,3 +1,4 @@
 var journal = [
-	"dm-14 is gonna be da best"
+	"dm-14 is gonna be da best",
+	"i want to do my very best here at DevMoutain"
 ];
